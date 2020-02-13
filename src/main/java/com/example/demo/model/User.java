@@ -1,4 +1,4 @@
-package com.example.demo.usercontroller;
+package com.example.demo.model;
 
 import java.util.Date;
 
