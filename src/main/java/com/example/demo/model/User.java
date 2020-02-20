@@ -34,6 +34,8 @@ public class User {
 
 	private String id3;
 
+	private String id4;
+
 	@Column(name = "first_name", nullable = false)
 
 	private String firstName;
