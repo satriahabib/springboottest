@@ -30,6 +30,8 @@ public class User {
 
 	private long id;
 
+	private String id2;
+
 	@Column(name = "first_name", nullable = false)
 
 	private String firstName;
