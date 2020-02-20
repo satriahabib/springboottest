@@ -35,6 +35,7 @@ public class User {
 	private String id3;
 
 	private String id5;
+	private String id4;
 
 	@Column(name = "first_name", nullable = false)
 
